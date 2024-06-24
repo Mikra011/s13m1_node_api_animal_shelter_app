@@ -1,0 +1,7 @@
+{
+  "name": "s13m1_node-api1-guided_animal_shelter_app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
